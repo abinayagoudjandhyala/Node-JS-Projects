@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Abinaya",
+      "username": "abinaya_dev"
+    },
+    {
+      "id": 2,
+      "name": "Rahul",
+      "username": "rahul_codes"
+    },
+    {
+      "id": 3,
+      "name": "Sneha",
+      "username": "sneha_designs"
+    }
+  ]
+}
